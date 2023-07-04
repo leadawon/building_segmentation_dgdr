@@ -1,0 +1,7 @@
+tiff/
+png/
+unet-for-building-segmentation-pytorch/
+best_model.pth
+archive.zip
+sample_predictions/
+*.pth
