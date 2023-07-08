@@ -2,3 +2,5 @@ daconvenv/
 data/
 best_model/
 submit/
+split_data/
+split_data_224/
