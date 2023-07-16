@@ -1,0 +1,5 @@
+work_dirs/
+mmsegmentation/
+iccv09Data/
+*.pth
+
