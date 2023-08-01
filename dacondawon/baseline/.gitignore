@@ -2,3 +2,5 @@ segformer-b0-finetuned-segments-sidewalk-outputs/
 segformer-b5-finetuned-ade/
 segformer-b5-finetuned-cityscapes/
 mask2former-swin-tiny-cityscapes-semantic/
+segformer-b1-recovery/
+egformer-b5-recovery-000/
