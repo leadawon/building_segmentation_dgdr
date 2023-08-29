@@ -1,4 +1,9 @@
 # semantic segmentation 
+
+SW중심대학 공동 AI 경진대회 2023
+
+최종결과 : 공동 4등 (SW중심대학협의회 회장상)
+
 위성 데이터 건물 semantic segmentation
 
 <p align="center">
@@ -16,7 +21,7 @@ SW중심대학 공동 AI 경진대회 2023
 
 위성 dataset을 건물, 비건물로 segmentation 합니다.
 
-[kaggle](https://dacon.io/competitions/open/236092/overview/description) 에서 dice score를 기준으로 competition을 진행합니다.
+[dacon](https://dacon.io/competitions/open/236092/overview/description) 에서 dice score를 기준으로 competition을 진행합니다.
 
 <img src="./assets/dgdr_result.png">
 
