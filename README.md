@@ -11,7 +11,7 @@ SW중심대학 공동 AI 경진대회 2023
   <img src="./assets/well_segmented_example.png">
   <br>
   
-  [pdf](./asserts/[dgdr]final_ppt.pdf) < - PLEASE CLICK THIS TO SEE MORE DETAILS!
+  [pdf](assets/[dgdr]final_ppt.pdf) < - PLEASE CLICK THIS TO SEE MORE DETAILS!
   
 </p>
 
