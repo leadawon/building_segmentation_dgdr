@@ -23,7 +23,7 @@ SW중심대학 공동 AI 경진대회 2023
 
 [dacon](https://dacon.io/competitions/open/236092/overview/description) 에서 dice score를 기준으로 competition을 진행합니다.
 
-<img src="./assets/dgdr_result.png">
+<img src="./assets/dgdr_result.jpg">
 
 최종결과는 공동 4등으로 SW중심대학협의회 회장상과 50만원의 상금을 수령했습니다.
 
